@@ -85,15 +85,6 @@ Machine learning–assisted intrusion detection tool.
 
 *And more projects added regularly.*
 
----
-
-## 📸 Preview
-
-(Add a screenshot of your site here — I can generate a mockup if you want.)
-
-```
-Coming Soon: Clean portfolio mockup
-```
 
 ---
 
@@ -112,7 +103,7 @@ Every component adjusts naturally without breaking UI.
 
 ## 🔗 Live Website
 
-👉 **Add your hosting link here** (Netlify / GitHub Pages / Vercel)
+👉 https://aggushub.github.io/Agguhub.io/
 
 ---
 
